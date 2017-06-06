@@ -1,0 +1,30 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "First time developing a twitter bot",
+  "main": "twitterBot.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node twitterBot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmaraghav260/TwitterBot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot",
+    "First",
+    "Api"
+  ],
+  "author": "Raghav Sharma",
+  "license": "LICENSE-MIT",
+  "bugs": {
+    "url": "https://github.com/sharmaraghav260/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/sharmaraghav260/TwitterBot#readme"
+}
