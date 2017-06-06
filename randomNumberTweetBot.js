@@ -1,4 +1,4 @@
-console.log("The follow bot is starting");
+console.log("The random number bot is starting");
 
 var Twit = require('twit');
 var config = require('./config');
