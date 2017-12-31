@@ -12,7 +12,6 @@ setInterval(tweetIt, 1000*10);
 function tweetIt(){
   var r = Math.floor(Math.random()*100);
 
-
   var tweet = {
     status: 'here is a random number ' + r + ' #coding from node.js'
   };
